@@ -1,0 +1,1971 @@
+2020-08-12 15:09:47,310 INFO  [Log] **************************************************************************************** 
+2020-08-12 15:09:47,311 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-12 15:09:47,311 INFO  [Log] **************************************************************************************** 
+2020-08-12 15:09:47,311 INFO  [Log] initialising properties.. 
+2020-08-12 15:09:47,311 INFO  [Log] Properties initialised! 
+2020-08-12 15:09:47,311 INFO  [Log] opening browser.. 
+2020-08-12 15:09:47,312 INFO  [Log] Chrome.. 
+2020-08-12 15:09:55,428 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-12 15:09:59,143 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-12 15:09:59,143 INFO  [Log] **************************************************************************************** 
+2020-08-12 15:09:59,143 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-12 15:09:59,143 INFO  [Log] **************************************************************************************** 
+2020-08-13 11:42:35,792 INFO  [Log] **************************************************************************************** 
+2020-08-13 11:42:35,792 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 11:42:35,793 INFO  [Log] **************************************************************************************** 
+2020-08-13 11:42:35,793 INFO  [Log] initialising properties.. 
+2020-08-13 11:42:35,793 INFO  [Log] Properties initialised! 
+2020-08-13 11:42:35,793 INFO  [Log] opening browser.. 
+2020-08-13 11:42:35,793 INFO  [Log] Chrome.. 
+2020-08-13 11:42:42,784 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 11:42:49,229 INFO  [Log] Get to Search Page & confirm sign in link is located.. 
+2020-08-13 11:42:49,229 INFO  [Log] Clicking Sign In link 
+2020-08-13 11:42:49,229 INFO  [Log] Waiting Until Element Is Visible - null 
+2020-08-13 11:42:49,246 ERROR [Log] AssertionError - User is NOT on the Sign in page 
+2020-08-13 11:42:49,248 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 11:42:49,248 INFO  [Log] **************************************************************************************** 
+2020-08-13 11:42:49,248 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 11:42:49,248 INFO  [Log] **************************************************************************************** 
+2020-08-13 12:22:47,260 INFO  [Log] **************************************************************************************** 
+2020-08-13 12:22:47,261 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 12:22:47,261 INFO  [Log] **************************************************************************************** 
+2020-08-13 12:22:47,261 INFO  [Log] initialising properties.. 
+2020-08-13 12:22:47,261 INFO  [Log] Properties initialised! 
+2020-08-13 12:22:47,262 INFO  [Log] opening browser.. 
+2020-08-13 12:22:47,262 INFO  [Log] Chrome.. 
+2020-08-13 12:22:54,565 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 12:22:59,183 INFO  [Log] Get to Search Page & confirm sign in link is located.. 
+2020-08-13 12:22:59,183 INFO  [Log] Clicking Sign In link 
+2020-08-13 12:22:59,183 INFO  [Log] Waiting Until Element Is Visible - null 
+2020-08-13 12:22:59,200 ERROR [Log] AssertionError - User is NOT on the Sign in page 
+2020-08-13 12:22:59,202 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 12:22:59,202 INFO  [Log] **************************************************************************************** 
+2020-08-13 12:22:59,202 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 12:22:59,202 INFO  [Log] **************************************************************************************** 
+2020-08-13 13:28:55,235 INFO  [Log] **************************************************************************************** 
+2020-08-13 13:28:55,235 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 13:28:55,235 INFO  [Log] **************************************************************************************** 
+2020-08-13 13:28:55,236 INFO  [Log] initialising properties.. 
+2020-08-13 13:28:55,236 INFO  [Log] Properties initialised! 
+2020-08-13 13:28:55,236 INFO  [Log] opening browser.. 
+2020-08-13 13:28:55,236 INFO  [Log] Chrome.. 
+2020-08-13 13:29:02,216 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 13:29:04,971 INFO  [Log] Get to Search Page 
+2020-08-13 13:29:04,989 ERROR [Log] AssertionError - User is NOT on the Search page 
+2020-08-13 13:29:04,990 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 13:29:04,990 INFO  [Log] **************************************************************************************** 
+2020-08-13 13:29:04,991 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 13:29:04,991 INFO  [Log] **************************************************************************************** 
+2020-08-13 13:38:20,337 INFO  [Log] **************************************************************************************** 
+2020-08-13 13:38:20,338 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 13:38:20,338 INFO  [Log] **************************************************************************************** 
+2020-08-13 13:38:20,338 INFO  [Log] initialising properties.. 
+2020-08-13 13:38:20,338 INFO  [Log] Properties initialised! 
+2020-08-13 13:38:20,338 INFO  [Log] opening browser.. 
+2020-08-13 13:38:20,338 INFO  [Log] Chrome.. 
+2020-08-13 13:38:27,151 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 13:38:29,870 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 13:38:29,870 INFO  [Log] **************************************************************************************** 
+2020-08-13 13:38:29,870 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 13:38:29,871 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:23:57,085 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:23:57,089 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 16:23:57,089 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:23:57,089 INFO  [Log] initialising properties.. 
+2020-08-13 16:23:57,089 INFO  [Log] Properties initialised! 
+2020-08-13 16:23:57,089 INFO  [Log] opening browser.. 
+2020-08-13 16:23:57,089 INFO  [Log] Chrome.. 
+2020-08-13 16:24:03,990 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 16:24:07,744 INFO  [Log] Get to Search Page 
+2020-08-13 16:24:07,744 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 16:24:08,335 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 16:24:09,522 ERROR [Log] AssertionError - User is NOT on the Sign in page 
+2020-08-13 16:24:09,522 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 16:24:09,522 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:24:09,522 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 16:24:09,522 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:26:29,105 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:26:29,105 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 16:26:29,105 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:26:29,105 INFO  [Log] initialising properties.. 
+2020-08-13 16:26:29,105 INFO  [Log] Properties initialised! 
+2020-08-13 16:26:29,105 INFO  [Log] opening browser.. 
+2020-08-13 16:26:29,105 INFO  [Log] Chrome.. 
+2020-08-13 16:26:35,823 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 16:26:39,442 INFO  [Log] Get to Search Page 
+2020-08-13 16:26:39,446 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 16:26:40,157 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 16:26:41,196 ERROR [Log] AssertionError - User is NOT on the Search page 
+2020-08-13 16:26:41,196 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 16:26:41,196 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:26:41,196 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 16:26:41,196 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:49:53,946 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:49:53,950 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 16:49:53,950 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:49:53,950 INFO  [Log] initialising properties.. 
+2020-08-13 16:49:53,950 INFO  [Log] Properties initialised! 
+2020-08-13 16:49:53,950 INFO  [Log] opening browser.. 
+2020-08-13 16:49:53,950 INFO  [Log] Chrome.. 
+2020-08-13 16:50:00,909 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 16:50:03,557 INFO  [Log] Get to Search Page 
+2020-08-13 16:50:03,557 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 16:50:04,025 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 16:50:05,099 ERROR [Log] AssertionError - User is NOT on the Search page 
+2020-08-13 16:50:05,103 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 16:50:05,103 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:50:05,103 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 16:50:05,103 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:54:23,536 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:54:23,540 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 16:54:23,540 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:54:23,540 INFO  [Log] initialising properties.. 
+2020-08-13 16:54:23,540 INFO  [Log] Properties initialised! 
+2020-08-13 16:54:23,540 INFO  [Log] opening browser.. 
+2020-08-13 16:54:23,540 INFO  [Log] Chrome.. 
+2020-08-13 16:54:30,531 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 16:54:33,927 INFO  [Log] Get to Search Page 
+2020-08-13 16:54:33,927 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 16:54:34,191 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 16:54:35,510 ERROR [Log] AssertionError - User is NOT on the Search page 
+2020-08-13 16:54:35,510 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 16:54:35,510 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:54:35,510 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 16:54:35,510 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:58:35,217 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:58:35,217 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 16:58:35,217 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:58:35,217 INFO  [Log] initialising properties.. 
+2020-08-13 16:58:35,217 INFO  [Log] Properties initialised! 
+2020-08-13 16:58:35,221 INFO  [Log] opening browser.. 
+2020-08-13 16:58:35,221 INFO  [Log] Chrome.. 
+2020-08-13 16:58:42,022 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 16:58:44,758 INFO  [Log] Get to Search Page 
+2020-08-13 16:58:44,758 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 16:58:45,333 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 16:58:46,448 ERROR [Log] AssertionError - User is NOT on the Search page 
+2020-08-13 16:58:46,448 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 16:58:46,448 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:58:46,448 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 16:58:46,448 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:59:20,232 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:59:20,236 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 16:59:20,236 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:59:20,236 INFO  [Log] initialising properties.. 
+2020-08-13 16:59:20,236 INFO  [Log] Properties initialised! 
+2020-08-13 16:59:20,236 INFO  [Log] opening browser.. 
+2020-08-13 16:59:20,236 INFO  [Log] Chrome.. 
+2020-08-13 16:59:27,029 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 16:59:29,315 INFO  [Log] Get to Search Page 
+2020-08-13 16:59:29,315 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 16:59:31,181 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 16:59:32,276 ERROR [Log] AssertionError - User is NOT on the Search page 
+2020-08-13 16:59:32,276 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 16:59:32,276 INFO  [Log] **************************************************************************************** 
+2020-08-13 16:59:32,276 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 16:59:32,276 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:15:07,320 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:15:07,320 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 17:15:07,320 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:15:07,320 INFO  [Log] initialising properties.. 
+2020-08-13 17:15:07,320 INFO  [Log] Properties initialised! 
+2020-08-13 17:15:07,320 INFO  [Log] opening browser.. 
+2020-08-13 17:15:07,320 INFO  [Log] Chrome.. 
+2020-08-13 17:15:14,066 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 17:15:18,294 INFO  [Log] Get to Search Page 
+2020-08-13 17:15:18,294 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 17:15:18,417 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 17:15:20,061 ERROR [Log] AssertionError - User is NOT on the Search page 
+2020-08-13 17:15:20,061 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 17:15:20,061 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:15:20,061 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 17:15:20,061 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:31:13,386 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:31:13,390 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 17:31:13,390 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:31:13,390 INFO  [Log] initialising properties.. 
+2020-08-13 17:31:13,390 INFO  [Log] Properties initialised! 
+2020-08-13 17:31:13,390 INFO  [Log] opening browser.. 
+2020-08-13 17:31:13,390 INFO  [Log] Chrome.. 
+2020-08-13 17:31:20,093 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 17:31:25,335 INFO  [Log] Get to Search Page 
+2020-08-13 17:31:25,335 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 17:31:27,799 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 17:31:28,870 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 17:31:28,946 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 17:31:30,024 ERROR [Log] AssertionError - User is NOT on the Search page 
+2020-08-13 17:31:30,028 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 17:31:30,028 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:31:30,028 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 17:31:30,028 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:37:19,316 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:37:19,316 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 17:37:19,316 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:37:19,320 INFO  [Log] initialising properties.. 
+2020-08-13 17:37:19,320 INFO  [Log] Properties initialised! 
+2020-08-13 17:37:19,320 INFO  [Log] opening browser.. 
+2020-08-13 17:37:19,320 INFO  [Log] Chrome.. 
+2020-08-13 17:37:26,181 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 17:37:30,636 INFO  [Log] Get to Search Page 
+2020-08-13 17:37:30,636 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 17:37:32,318 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 17:37:33,337 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 17:37:33,473 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 17:37:34,595 ERROR [Log] AssertionError - User is NOT on the Search page 
+2020-08-13 17:37:34,595 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 17:37:34,595 INFO  [Log] **************************************************************************************** 
+2020-08-13 17:37:34,599 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 17:37:34,599 INFO  [Log] **************************************************************************************** 
+2020-08-13 18:37:10,721 INFO  [Log] **************************************************************************************** 
+2020-08-13 18:37:10,721 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 18:37:10,721 INFO  [Log] **************************************************************************************** 
+2020-08-13 18:37:10,721 INFO  [Log] initialising properties.. 
+2020-08-13 18:37:10,722 INFO  [Log] Properties initialised! 
+2020-08-13 18:37:10,722 INFO  [Log] opening browser.. 
+2020-08-13 18:37:10,722 INFO  [Log] Chrome.. 
+2020-08-13 18:37:18,053 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 18:37:23,660 INFO  [Log] Get to Search Page 
+2020-08-13 18:37:23,660 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 18:37:24,635 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 18:37:25,772 INFO  [Log] Waiting Until Element Is Visible - //*[@class='searchBy'] 
+2020-08-13 18:37:26,595 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 18:37:28,710 ERROR [Log] AssertionError - User is NOT on the Search page 
+2020-08-13 18:37:28,711 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 18:37:28,711 INFO  [Log] **************************************************************************************** 
+2020-08-13 18:37:28,711 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 18:37:28,711 INFO  [Log] **************************************************************************************** 
+2020-08-13 19:52:49,746 INFO  [Log] **************************************************************************************** 
+2020-08-13 19:52:49,747 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-13 19:52:49,747 INFO  [Log] **************************************************************************************** 
+2020-08-13 19:52:49,747 INFO  [Log] initialising properties.. 
+2020-08-13 19:52:49,747 INFO  [Log] Properties initialised! 
+2020-08-13 19:52:49,747 INFO  [Log] opening browser.. 
+2020-08-13 19:52:49,747 INFO  [Log] Chrome.. 
+2020-08-13 19:52:56,672 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-13 19:52:59,608 INFO  [Log] Get to Search Page 
+2020-08-13 19:52:59,608 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-13 19:53:00,954 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 19:53:02,165 INFO  [Log] Waiting Until Element Is Visible - //*[@class='searchBy'] 
+2020-08-13 19:53:02,248 INFO  [Log] Waiting until page loads completely.. 
+2020-08-13 19:53:03,382 ERROR [Log] AssertionError - User is NOT on the Search page 
+2020-08-13 19:53:03,384 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-13 19:53:03,384 INFO  [Log] **************************************************************************************** 
+2020-08-13 19:53:03,384 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-13 19:53:03,384 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:41:23,237 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:41:23,237 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 14:41:23,237 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:41:23,237 INFO  [Log] initialising properties.. 
+2020-08-14 14:41:23,237 INFO  [Log] Properties initialised! 
+2020-08-14 14:41:23,237 INFO  [Log] opening browser.. 
+2020-08-14 14:41:23,237 INFO  [Log] Chrome.. 
+2020-08-14 14:41:30,300 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 14:41:32,848 INFO  [Log] Get to Search Page 
+2020-08-14 14:41:32,848 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 14:41:33,818 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 14:41:34,869 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 14:41:34,889 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 14:41:36,279 INFO  [Log] User is on the Search page 
+2020-08-14 14:41:36,279 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 14:41:36,279 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 14:41:36,439 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 14:41:38,107 INFO  [Log] Waiting Until Element Is Visible - null 
+2020-08-14 14:41:38,115 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 14:41:38,115 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:41:38,115 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 14:41:38,115 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:49:46,954 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:49:46,958 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 14:49:46,958 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:49:46,958 INFO  [Log] initialising properties.. 
+2020-08-14 14:49:46,958 INFO  [Log] Properties initialised! 
+2020-08-14 14:49:46,958 INFO  [Log] opening browser.. 
+2020-08-14 14:49:46,958 INFO  [Log] Chrome.. 
+2020-08-14 14:49:53,764 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 14:49:58,427 INFO  [Log] Get to Search Page 
+2020-08-14 14:49:58,427 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 14:49:59,042 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 14:50:00,085 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 14:50:00,117 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 14:50:02,130 INFO  [Log] User is on the Search page 
+2020-08-14 14:50:02,134 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 14:50:02,134 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 14:50:02,218 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 14:50:03,444 INFO  [Log] Waiting Until Element Is Visible - null 
+2020-08-14 14:50:03,444 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 14:50:03,444 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:50:03,444 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 14:50:03,444 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:53:08,168 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:53:08,168 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 14:53:08,168 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:53:08,168 INFO  [Log] initialising properties.. 
+2020-08-14 14:53:08,168 INFO  [Log] Properties initialised! 
+2020-08-14 14:53:08,168 INFO  [Log] opening browser.. 
+2020-08-14 14:53:08,168 INFO  [Log] Chrome.. 
+2020-08-14 14:53:15,193 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 14:53:17,677 INFO  [Log] Get to Search Page 
+2020-08-14 14:53:17,677 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 14:53:19,643 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 14:53:20,662 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 14:53:20,682 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 14:53:21,692 INFO  [Log] User is on the Search page 
+2020-08-14 14:53:21,692 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 14:53:21,692 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 14:53:21,764 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 14:53:22,955 INFO  [Log] Waiting Until Element Is Visible - null 
+2020-08-14 14:53:22,955 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 14:53:22,955 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:53:22,955 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 14:53:22,955 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:54:36,871 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:54:36,875 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 14:54:36,875 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:54:36,875 INFO  [Log] initialising properties.. 
+2020-08-14 14:54:36,875 INFO  [Log] Properties initialised! 
+2020-08-14 14:54:36,875 INFO  [Log] opening browser.. 
+2020-08-14 14:54:36,875 INFO  [Log] Chrome.. 
+2020-08-14 14:54:43,586 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 14:54:46,236 INFO  [Log] Get to Search Page 
+2020-08-14 14:54:46,236 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 14:54:46,636 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 14:54:48,029 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 14:54:48,053 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 14:54:49,084 INFO  [Log] User is on the Search page 
+2020-08-14 14:54:49,084 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 14:54:49,084 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 14:54:49,171 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 14:54:51,029 INFO  [Log] Waiting Until Element Is Visible - null 
+2020-08-14 14:54:51,029 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 14:54:51,029 INFO  [Log] **************************************************************************************** 
+2020-08-14 14:54:51,029 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 14:54:51,033 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:43:43,445 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:43:43,449 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 15:43:43,449 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:43:43,449 INFO  [Log] initialising properties.. 
+2020-08-14 15:43:43,449 INFO  [Log] Properties initialised! 
+2020-08-14 15:43:43,449 INFO  [Log] opening browser.. 
+2020-08-14 15:43:43,449 INFO  [Log] Chrome.. 
+2020-08-14 15:43:50,612 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 15:43:55,439 INFO  [Log] Get to Search Page 
+2020-08-14 15:43:55,439 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 15:43:57,856 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 15:43:58,987 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 15:43:59,055 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 15:44:00,081 INFO  [Log] User is on the Search page 
+2020-08-14 15:44:00,081 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 15:44:00,081 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 15:44:00,157 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 15:44:01,464 INFO  [Log] Waiting Until Element Is Visible - null 
+2020-08-14 15:44:01,464 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 15:44:01,464 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:44:01,464 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 15:44:01,464 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:45:08,151 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:45:08,151 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 15:45:08,151 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:45:08,151 INFO  [Log] initialising properties.. 
+2020-08-14 15:45:08,151 INFO  [Log] Properties initialised! 
+2020-08-14 15:45:08,151 INFO  [Log] opening browser.. 
+2020-08-14 15:45:08,151 INFO  [Log] Chrome.. 
+2020-08-14 15:45:15,057 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 15:45:20,174 INFO  [Log] Get to Search Page 
+2020-08-14 15:45:20,174 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 15:45:20,338 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 15:45:22,675 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 15:45:22,715 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 15:45:23,734 INFO  [Log] User is on the Search page 
+2020-08-14 15:45:23,734 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 15:45:23,734 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 15:45:23,826 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 15:45:25,220 INFO  [Log] Waiting Until Element Is Visible - null 
+2020-08-14 15:45:25,224 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 15:45:25,224 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:45:25,228 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 15:45:25,228 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:52:46,215 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:52:46,215 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 15:52:46,215 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:52:46,215 INFO  [Log] initialising properties.. 
+2020-08-14 15:52:46,215 INFO  [Log] Properties initialised! 
+2020-08-14 15:52:46,215 INFO  [Log] opening browser.. 
+2020-08-14 15:52:46,219 INFO  [Log] Chrome.. 
+2020-08-14 15:52:52,982 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 15:52:56,061 INFO  [Log] Get to Search Page 
+2020-08-14 15:52:56,061 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 15:52:56,549 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 15:52:57,671 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 15:52:57,703 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 15:52:59,297 INFO  [Log] User is on the Search page 
+2020-08-14 15:52:59,297 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 15:52:59,297 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 15:52:59,369 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 15:53:00,579 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 15:53:00,687 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 15:53:03,851 INFO  [Log] * And user clicks.. 
+2020-08-14 15:53:03,851 INFO  [Log] Clicking object - searchButton 
+2020-08-14 15:53:05,290 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 15:53:05,322 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 15:53:08,015 ERROR [Log] AssertionError -  User is not on the searched product page 
+2020-08-14 15:53:08,015 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 15:53:08,015 INFO  [Log] **************************************************************************************** 
+2020-08-14 15:53:08,015 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 15:53:08,015 INFO  [Log] **************************************************************************************** 
+2020-08-14 16:40:31,921 INFO  [Log] **************************************************************************************** 
+2020-08-14 16:40:31,925 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 16:40:31,925 INFO  [Log] **************************************************************************************** 
+2020-08-14 16:40:31,925 INFO  [Log] initialising properties.. 
+2020-08-14 16:40:31,925 INFO  [Log] Properties initialised! 
+2020-08-14 16:40:31,925 INFO  [Log] opening browser.. 
+2020-08-14 16:40:31,925 INFO  [Log] Chrome.. 
+2020-08-14 16:40:38,777 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 16:40:41,734 INFO  [Log] Get to Search Page 
+2020-08-14 16:40:41,734 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 16:40:42,018 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 16:40:43,260 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 16:40:43,652 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 16:40:45,357 INFO  [Log] User is on the Search page 
+2020-08-14 16:40:45,357 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 16:40:45,357 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 16:40:45,429 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 16:40:46,624 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 16:40:46,736 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 16:40:49,967 INFO  [Log] * And user clicks.. 
+2020-08-14 16:40:49,967 INFO  [Log] Clicking object - searchButton 
+2020-08-14 16:40:51,235 INFO  [Log] Reading label from - headerTitleLabel 
+2020-08-14 16:40:51,978 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 16:40:54,170 INFO  [Log] User is on the searched product page 
+2020-08-14 16:40:54,170 INFO  [Log] * And user clicks.. 
+2020-08-14 16:40:54,170 INFO  [Log] Clicking object - productname 
+2020-08-14 16:40:55,300 INFO  [Log] Reading label from - headerTitleLabel 
+2020-08-14 16:40:55,356 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 16:40:55,360 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 16:40:55,360 INFO  [Log] **************************************************************************************** 
+2020-08-14 16:40:55,360 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 16:40:55,360 INFO  [Log] **************************************************************************************** 
+2020-08-14 16:51:55,184 INFO  [Log] **************************************************************************************** 
+2020-08-14 16:51:55,185 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 16:51:55,185 INFO  [Log] **************************************************************************************** 
+2020-08-14 16:51:55,185 INFO  [Log] initialising properties.. 
+2020-08-14 16:51:55,185 INFO  [Log] Properties initialised! 
+2020-08-14 16:51:55,186 INFO  [Log] opening browser.. 
+2020-08-14 16:51:55,186 INFO  [Log] Chrome.. 
+2020-08-14 16:52:01,975 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 16:52:05,117 INFO  [Log] Get to Search Page 
+2020-08-14 16:52:05,117 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 16:52:05,726 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 16:52:07,271 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 16:52:07,298 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 16:52:08,355 INFO  [Log] User is on the Search page 
+2020-08-14 16:52:08,355 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 16:52:08,355 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 16:52:08,425 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 16:52:10,557 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 16:52:10,668 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 16:52:13,770 INFO  [Log] * And user clicks.. 
+2020-08-14 16:52:13,770 INFO  [Log] Clicking object - searchButton 
+2020-08-14 16:52:15,351 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 16:52:16,075 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 16:52:17,580 INFO  [Log] User is on the searched product page 
+2020-08-14 16:52:17,580 INFO  [Log] * And user clicks.. 
+2020-08-14 16:52:17,580 INFO  [Log] Clicking object - productname 
+2020-08-14 16:52:18,373 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 16:52:18,411 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 16:52:22,342 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 16:52:22,344 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 16:52:22,344 INFO  [Log] **************************************************************************************** 
+2020-08-14 16:52:22,344 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 16:52:22,345 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:30:37,240 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:30:37,240 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:30:37,241 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:30:37,241 INFO  [Log] initialising properties.. 
+2020-08-14 17:30:37,241 INFO  [Log] Properties initialised! 
+2020-08-14 17:30:37,241 INFO  [Log] opening browser.. 
+2020-08-14 17:30:37,241 INFO  [Log] Chrome.. 
+2020-08-14 17:30:44,122 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:30:46,801 INFO  [Log] Get to Search Page 
+2020-08-14 17:30:46,801 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:30:47,984 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:30:49,077 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:30:50,485 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:30:51,538 INFO  [Log] User is on the Search page 
+2020-08-14 17:30:51,538 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:30:51,538 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:30:51,622 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:30:52,816 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:30:52,903 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:30:56,026 INFO  [Log] * And user clicks.. 
+2020-08-14 17:30:56,026 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:30:57,243 INFO  [Log] Checking Element Exists -  headerTitleLabel 
+2020-08-14 17:30:57,243 FATAL [Log] Exception - User is not on the searched product page 
+2020-08-14 17:30:57,245 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:30:57,245 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:30:57,245 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:30:57,245 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:32:35,654 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:32:35,654 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:32:35,654 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:32:35,654 INFO  [Log] initialising properties.. 
+2020-08-14 17:32:35,654 INFO  [Log] Properties initialised! 
+2020-08-14 17:32:35,654 INFO  [Log] opening browser.. 
+2020-08-14 17:32:35,655 INFO  [Log] Chrome.. 
+2020-08-14 17:32:42,538 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:32:44,748 INFO  [Log] Get to Search Page 
+2020-08-14 17:32:44,748 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:32:47,116 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:32:48,177 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:32:48,220 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:32:49,229 INFO  [Log] User is on the Search page 
+2020-08-14 17:32:49,230 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:32:49,230 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:32:49,308 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:32:50,533 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:32:50,636 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:32:53,758 INFO  [Log] * And user clicks.. 
+2020-08-14 17:32:53,758 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:32:54,941 INFO  [Log] Checking Element Exists -  headerTitleLabel 
+2020-08-14 17:32:54,941 FATAL [Log] Exception - User is not on the searched product page 
+2020-08-14 17:32:54,943 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:32:54,943 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:32:54,943 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:32:54,943 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:33:15,344 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:33:15,344 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:33:15,345 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:33:15,345 INFO  [Log] initialising properties.. 
+2020-08-14 17:33:15,345 INFO  [Log] Properties initialised! 
+2020-08-14 17:33:15,345 INFO  [Log] opening browser.. 
+2020-08-14 17:33:15,345 INFO  [Log] Chrome.. 
+2020-08-14 17:33:22,287 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:33:24,288 INFO  [Log] Get to Search Page 
+2020-08-14 17:33:24,288 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:33:25,231 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:33:26,456 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:33:26,825 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:33:27,915 INFO  [Log] User is on the Search page 
+2020-08-14 17:33:27,915 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:33:27,915 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:33:28,003 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:33:29,248 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:33:29,379 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:33:32,497 INFO  [Log] * And user clicks.. 
+2020-08-14 17:33:32,497 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:33:34,469 INFO  [Log] Checking Element Exists -  headerTitleLabel 
+2020-08-14 17:33:34,469 FATAL [Log] Exception - User is not on the searched product page 
+2020-08-14 17:33:34,471 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:33:34,471 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:33:34,471 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:33:34,471 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:34:44,124 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:34:44,125 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:34:44,125 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:34:44,125 INFO  [Log] initialising properties.. 
+2020-08-14 17:34:44,125 INFO  [Log] Properties initialised! 
+2020-08-14 17:34:44,125 INFO  [Log] opening browser.. 
+2020-08-14 17:34:44,125 INFO  [Log] Chrome.. 
+2020-08-14 17:34:51,093 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:34:53,555 INFO  [Log] Get to Search Page 
+2020-08-14 17:34:53,555 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:34:54,532 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:34:55,676 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:34:56,014 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:34:57,095 INFO  [Log] User is on the Search page 
+2020-08-14 17:34:57,096 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:34:57,096 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:34:57,166 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:34:58,450 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:34:58,552 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:35:01,674 INFO  [Log] * And user clicks.. 
+2020-08-14 17:35:01,674 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:35:02,968 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:35:03,791 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:35:04,905 INFO  [Log] User is on the searched product page 
+2020-08-14 17:35:04,906 INFO  [Log] * And user clicks.. 
+2020-08-14 17:35:04,906 INFO  [Log] Clicking object - productname 
+2020-08-14 17:35:06,128 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:35:06,173 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:35:10,556 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 17:35:10,558 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:35:10,558 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:35:10,558 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:35:10,559 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:37:28,800 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:37:28,801 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:37:28,802 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:37:28,802 INFO  [Log] initialising properties.. 
+2020-08-14 17:37:28,802 INFO  [Log] Properties initialised! 
+2020-08-14 17:37:28,802 INFO  [Log] opening browser.. 
+2020-08-14 17:37:28,802 INFO  [Log] Chrome.. 
+2020-08-14 17:37:35,582 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:37:38,452 INFO  [Log] Get to Search Page 
+2020-08-14 17:37:38,453 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:37:39,350 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:37:40,359 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:37:40,395 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:37:42,083 INFO  [Log] User is on the Search page 
+2020-08-14 17:37:42,084 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:37:42,084 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:37:42,181 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:37:43,387 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:37:43,498 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:37:46,649 INFO  [Log] * And user clicks.. 
+2020-08-14 17:37:46,649 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:37:47,802 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:37:48,419 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:37:49,943 INFO  [Log] User is on the searched product page 
+2020-08-14 17:37:49,944 INFO  [Log] * And user clicks.. 
+2020-08-14 17:37:49,944 INFO  [Log] Clicking object - productname 
+2020-08-14 17:37:50,792 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:37:50,827 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:37:54,940 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 17:37:54,942 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:37:54,942 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:37:54,942 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:37:54,942 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:42:42,360 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:42:42,360 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:42:42,360 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:42:42,361 INFO  [Log] initialising properties.. 
+2020-08-14 17:42:42,361 INFO  [Log] Properties initialised! 
+2020-08-14 17:42:42,361 INFO  [Log] opening browser.. 
+2020-08-14 17:42:42,361 INFO  [Log] Chrome.. 
+2020-08-14 17:42:49,418 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:42:53,133 INFO  [Log] Get to Search Page 
+2020-08-14 17:42:53,133 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:42:53,449 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:42:55,679 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:42:57,319 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:42:58,332 INFO  [Log] User is on the Search page 
+2020-08-14 17:42:58,332 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:42:58,332 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:42:58,412 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:42:59,676 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:42:59,780 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:43:02,903 INFO  [Log] * And user clicks.. 
+2020-08-14 17:43:02,903 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:43:04,112 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:43:04,143 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:43:06,161 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 17:43:06,164 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:43:06,164 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:43:06,164 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:43:06,164 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:43:59,642 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:43:59,643 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:43:59,643 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:43:59,644 INFO  [Log] initialising properties.. 
+2020-08-14 17:43:59,644 INFO  [Log] Properties initialised! 
+2020-08-14 17:43:59,644 INFO  [Log] opening browser.. 
+2020-08-14 17:43:59,644 INFO  [Log] Chrome.. 
+2020-08-14 17:44:06,517 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:44:10,004 INFO  [Log] Get to Search Page 
+2020-08-14 17:44:10,005 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:44:10,340 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:44:11,614 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:44:13,543 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:44:14,554 INFO  [Log] User is on the Search page 
+2020-08-14 17:44:14,554 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:44:14,554 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:44:14,713 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:44:15,883 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:44:15,965 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:44:19,079 INFO  [Log] * And user clicks.. 
+2020-08-14 17:44:19,080 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:44:20,039 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:44:20,111 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:44:22,121 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 17:44:22,123 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:44:22,123 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:44:22,123 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:44:22,124 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:45:33,915 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:45:33,916 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:45:33,916 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:45:33,916 INFO  [Log] initialising properties.. 
+2020-08-14 17:45:33,916 INFO  [Log] Properties initialised! 
+2020-08-14 17:45:33,917 INFO  [Log] opening browser.. 
+2020-08-14 17:45:33,917 INFO  [Log] Chrome.. 
+2020-08-14 17:45:40,727 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:45:43,186 INFO  [Log] Get to Search Page 
+2020-08-14 17:45:43,187 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:45:44,034 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:45:45,105 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:45:45,157 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:45:46,876 INFO  [Log] User is on the Search page 
+2020-08-14 17:45:46,876 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:45:46,876 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:45:46,979 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:45:48,152 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:45:48,257 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:45:51,365 INFO  [Log] * And user clicks.. 
+2020-08-14 17:45:51,365 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:45:53,192 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:45:53,387 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:45:54,569 INFO  [Log] User is on the searched product page 
+2020-08-14 17:45:54,569 INFO  [Log] * And user clicks.. 
+2020-08-14 17:45:54,569 INFO  [Log] Clicking object - productname 
+2020-08-14 17:45:55,170 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:45:55,269 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:45:58,745 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 17:45:58,747 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:45:58,747 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:45:58,747 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:45:58,747 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:46:32,930 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:46:32,931 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:46:32,931 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:46:32,931 INFO  [Log] initialising properties.. 
+2020-08-14 17:46:32,931 INFO  [Log] Properties initialised! 
+2020-08-14 17:46:32,932 INFO  [Log] opening browser.. 
+2020-08-14 17:46:32,932 INFO  [Log] Chrome.. 
+2020-08-14 17:46:39,842 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:46:41,838 INFO  [Log] Get to Search Page 
+2020-08-14 17:46:41,838 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:46:42,700 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:46:43,888 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:46:43,949 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:46:45,075 INFO  [Log] User is on the Search page 
+2020-08-14 17:46:45,076 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:46:45,076 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:46:45,145 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:46:46,450 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:46:46,638 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:46:49,750 INFO  [Log] * And user clicks.. 
+2020-08-14 17:46:49,750 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:46:52,081 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:46:52,618 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:46:53,652 INFO  [Log] User is on the searched product page 
+2020-08-14 17:46:53,652 INFO  [Log] * And user clicks.. 
+2020-08-14 17:46:53,652 INFO  [Log] Clicking object - productname 
+2020-08-14 17:46:54,446 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:46:54,546 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:46:57,512 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 17:46:57,514 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:46:57,514 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:46:57,515 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:46:57,515 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:49:41,452 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:49:41,452 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:49:41,452 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:49:41,453 INFO  [Log] initialising properties.. 
+2020-08-14 17:49:41,453 INFO  [Log] Properties initialised! 
+2020-08-14 17:49:41,453 INFO  [Log] opening browser.. 
+2020-08-14 17:49:41,453 INFO  [Log] Chrome.. 
+2020-08-14 17:49:48,194 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:49:53,453 INFO  [Log] Get to Search Page 
+2020-08-14 17:49:53,453 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:49:53,834 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:49:55,040 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:49:56,125 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:49:57,141 INFO  [Log] User is on the Search page 
+2020-08-14 17:49:57,141 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:49:57,141 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:49:57,203 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:49:58,408 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:49:58,506 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:50:01,650 INFO  [Log] * And user clicks.. 
+2020-08-14 17:50:01,650 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:50:02,550 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:50:03,416 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:50:04,547 INFO  [Log] User is on the searched product page 
+2020-08-14 17:50:04,548 INFO  [Log] * And user clicks.. 
+2020-08-14 17:50:04,548 INFO  [Log] Clicking object - productname 
+2020-08-14 17:50:05,714 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:50:05,840 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:50:07,704 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 17:50:07,705 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:50:07,705 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:50:07,705 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:50:07,706 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:54:13,749 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:54:13,749 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:54:13,750 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:54:13,750 INFO  [Log] initialising properties.. 
+2020-08-14 17:54:13,750 INFO  [Log] Properties initialised! 
+2020-08-14 17:54:13,750 INFO  [Log] opening browser.. 
+2020-08-14 17:54:13,750 INFO  [Log] Chrome.. 
+2020-08-14 17:54:20,695 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:54:22,971 INFO  [Log] Get to Search Page 
+2020-08-14 17:54:22,971 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:54:23,557 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:54:24,719 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:54:24,793 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:54:25,865 INFO  [Log] User is on the Search page 
+2020-08-14 17:54:25,866 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:54:25,866 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:54:25,917 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:54:27,085 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:54:27,203 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:54:30,336 INFO  [Log] * And user clicks.. 
+2020-08-14 17:54:30,336 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:54:31,387 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:54:32,080 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:54:33,411 INFO  [Log] User is on the searched product page 
+2020-08-14 17:54:33,411 INFO  [Log] * And user clicks.. 
+2020-08-14 17:54:33,411 INFO  [Log] Clicking object - productname 
+2020-08-14 17:54:34,451 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:54:34,552 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:54:38,088 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 17:54:38,089 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:54:38,089 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:54:38,090 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:54:38,090 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:56:36,406 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:56:36,407 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:56:36,407 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:56:36,407 INFO  [Log] initialising properties.. 
+2020-08-14 17:56:36,407 INFO  [Log] Properties initialised! 
+2020-08-14 17:56:36,407 INFO  [Log] opening browser.. 
+2020-08-14 17:56:36,407 INFO  [Log] Chrome.. 
+2020-08-14 17:56:43,199 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:56:45,815 INFO  [Log] Get to Search Page 
+2020-08-14 17:56:45,815 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:56:46,289 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:56:47,456 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:56:48,821 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:56:49,832 INFO  [Log] User is on the Search page 
+2020-08-14 17:56:49,832 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:56:49,832 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:56:49,912 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:56:51,117 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:56:51,224 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:56:54,338 INFO  [Log] * And user clicks.. 
+2020-08-14 17:56:54,339 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:56:55,274 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:56:56,011 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:56:57,156 INFO  [Log] User is on the searched product page 
+2020-08-14 17:56:57,157 INFO  [Log] * And user clicks.. 
+2020-08-14 17:56:57,157 INFO  [Log] Clicking object - productname 
+2020-08-14 17:56:58,235 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:56:58,334 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:57:02,083 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 17:57:02,085 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:57:02,085 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:57:02,085 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:57:02,085 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:58:24,769 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:58:24,769 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:58:24,770 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:58:24,770 INFO  [Log] initialising properties.. 
+2020-08-14 17:58:24,770 INFO  [Log] Properties initialised! 
+2020-08-14 17:58:24,770 INFO  [Log] opening browser.. 
+2020-08-14 17:58:24,770 INFO  [Log] Chrome.. 
+2020-08-14 17:58:31,611 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:58:34,129 INFO  [Log] Get to Search Page 
+2020-08-14 17:58:34,129 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:58:34,675 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:58:35,821 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:58:35,856 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:58:37,807 INFO  [Log] User is on the Search page 
+2020-08-14 17:58:37,808 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 17:58:37,808 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:58:37,874 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 17:58:39,046 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 17:58:39,149 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 17:58:42,414 INFO  [Log] * And user clicks.. 
+2020-08-14 17:58:42,414 INFO  [Log] Clicking object - searchButton 
+2020-08-14 17:58:43,312 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:58:44,075 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:58:45,122 INFO  [Log] User is on the searched product page 
+2020-08-14 17:58:45,122 INFO  [Log] * And user clicks.. 
+2020-08-14 17:58:45,122 INFO  [Log] Clicking object - productname 
+2020-08-14 17:58:46,049 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 17:58:46,146 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:58:49,153 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 17:58:49,155 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 17:58:49,155 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:58:49,155 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 17:58:49,155 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:59:47,249 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:59:47,250 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-14 17:59:47,250 INFO  [Log] **************************************************************************************** 
+2020-08-14 17:59:47,250 INFO  [Log] initialising properties.. 
+2020-08-14 17:59:47,250 INFO  [Log] Properties initialised! 
+2020-08-14 17:59:47,250 INFO  [Log] opening browser.. 
+2020-08-14 17:59:47,250 INFO  [Log] Chrome.. 
+2020-08-14 17:59:54,114 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-14 17:59:56,751 INFO  [Log] Get to Search Page 
+2020-08-14 17:59:56,751 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 17:59:57,208 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 17:59:58,270 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-14 17:59:58,315 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 18:00:00,132 INFO  [Log] User is on the Search page 
+2020-08-14 18:00:00,132 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-14 18:00:00,133 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-14 18:00:00,220 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-14 18:00:01,430 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-14 18:00:01,504 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-14 18:00:04,645 INFO  [Log] * And user clicks.. 
+2020-08-14 18:00:04,645 INFO  [Log] Clicking object - searchButton 
+2020-08-14 18:00:05,645 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 18:00:06,306 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 18:00:07,350 INFO  [Log] User is on the searched product page 
+2020-08-14 18:00:07,350 INFO  [Log] * And user clicks.. 
+2020-08-14 18:00:07,350 INFO  [Log] Clicking object - productname 
+2020-08-14 18:00:08,414 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-14 18:00:08,501 INFO  [Log] Waiting until page loads completely.. 
+2020-08-14 18:00:10,904 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-14 18:00:10,906 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-14 18:00:10,906 INFO  [Log] **************************************************************************************** 
+2020-08-14 18:00:10,906 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-14 18:00:10,907 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:49:23,610 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:49:23,639 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 16:49:23,640 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:49:23,640 INFO  [Log] initialising properties.. 
+2020-08-15 16:49:23,640 INFO  [Log] Properties initialised! 
+2020-08-15 16:49:23,640 INFO  [Log] opening browser.. 
+2020-08-15 16:49:23,640 INFO  [Log] Chrome.. 
+2020-08-15 16:49:31,724 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 16:49:33,973 INFO  [Log] Get to Search Page 
+2020-08-15 16:49:33,973 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 16:49:35,161 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 16:49:36,607 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 16:49:36,706 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 16:49:37,804 INFO  [Log] User is on the Search page 
+2020-08-15 16:49:37,804 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 16:49:37,804 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 16:49:37,854 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 16:49:39,166 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 16:49:39,251 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 16:49:42,392 INFO  [Log] * And user clicks.. 
+2020-08-15 16:49:42,392 INFO  [Log] Clicking object - searchButton 
+2020-08-15 16:49:43,847 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 16:49:44,716 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 16:49:46,081 INFO  [Log] User is on the searched product page 
+2020-08-15 16:49:46,081 INFO  [Log] * And user clicks.. 
+2020-08-15 16:49:46,081 INFO  [Log] Clicking object - productname 
+2020-08-15 16:49:46,814 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 16:49:46,814 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:49:46,814 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 16:49:46,814 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:51:06,441 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:51:06,441 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 16:51:06,441 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:51:06,441 INFO  [Log] initialising properties.. 
+2020-08-15 16:51:06,441 INFO  [Log] Properties initialised! 
+2020-08-15 16:51:06,442 INFO  [Log] opening browser.. 
+2020-08-15 16:51:06,442 INFO  [Log] Chrome.. 
+2020-08-15 16:51:13,036 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 16:51:16,434 INFO  [Log] Get to Search Page 
+2020-08-15 16:51:16,434 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 16:51:17,031 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 16:51:18,170 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 16:51:18,308 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 16:51:19,514 INFO  [Log] User is on the Search page 
+2020-08-15 16:51:19,514 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 16:51:19,514 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 16:51:19,585 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 16:51:20,843 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 16:51:20,940 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 16:51:24,054 INFO  [Log] * And user clicks.. 
+2020-08-15 16:51:24,054 INFO  [Log] Clicking object - searchButton 
+2020-08-15 16:51:25,262 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 16:51:26,022 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 16:51:27,052 INFO  [Log] User is on the searched product page 
+2020-08-15 16:51:27,052 INFO  [Log] * And user clicks.. 
+2020-08-15 16:51:27,052 INFO  [Log] Clicking object - productname 
+2020-08-15 16:51:27,862 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 16:51:27,862 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:51:27,862 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 16:51:27,862 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:53:42,182 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:53:42,183 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 16:53:42,183 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:53:42,184 INFO  [Log] initialising properties.. 
+2020-08-15 16:53:42,184 INFO  [Log] Properties initialised! 
+2020-08-15 16:53:42,184 INFO  [Log] opening browser.. 
+2020-08-15 16:53:42,184 INFO  [Log] Chrome.. 
+2020-08-15 16:53:48,865 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 16:53:51,313 INFO  [Log] Get to Search Page 
+2020-08-15 16:53:51,313 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 16:53:53,367 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 16:53:54,571 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 16:53:54,599 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 16:53:55,646 INFO  [Log] User is on the Search page 
+2020-08-15 16:53:55,647 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 16:53:55,647 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 16:53:55,728 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 16:53:56,959 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 16:53:57,136 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 16:54:00,254 INFO  [Log] * And user clicks.. 
+2020-08-15 16:54:00,255 INFO  [Log] Clicking object - searchButton 
+2020-08-15 16:54:01,170 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 16:54:01,913 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 16:54:02,986 INFO  [Log] User is on the searched product page 
+2020-08-15 16:54:02,986 INFO  [Log] * And user clicks.. 
+2020-08-15 16:54:02,987 INFO  [Log] Clicking object - productname 
+2020-08-15 16:54:03,698 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 16:54:03,699 INFO  [Log] **************************************************************************************** 
+2020-08-15 16:54:03,699 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 16:54:03,699 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:05:15,570 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:05:15,574 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 19:05:15,574 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:05:15,574 INFO  [Log] initialising properties.. 
+2020-08-15 19:05:15,574 INFO  [Log] Properties initialised! 
+2020-08-15 19:05:15,574 INFO  [Log] opening browser.. 
+2020-08-15 19:05:15,574 INFO  [Log] Chrome.. 
+2020-08-15 19:05:22,401 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 19:05:24,884 INFO  [Log] Get to Search Page 
+2020-08-15 19:05:24,884 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:05:26,472 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:05:27,988 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 19:05:28,144 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:05:29,156 INFO  [Log] User is on the Search page 
+2020-08-15 19:05:29,156 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 19:05:29,156 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:05:29,248 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 19:05:30,464 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 19:05:30,596 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 19:05:33,710 INFO  [Log] * And user clicks.. 
+2020-08-15 19:05:33,710 INFO  [Log] Clicking object - searchButton 
+2020-08-15 19:05:34,821 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 19:05:34,901 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:05:36,595 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-15 19:05:36,595 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 19:05:36,595 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:05:36,595 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 19:05:36,595 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:14:40,200 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:14:40,200 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 19:14:40,200 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:14:40,200 INFO  [Log] initialising properties.. 
+2020-08-15 19:14:40,200 INFO  [Log] Properties initialised! 
+2020-08-15 19:14:40,200 INFO  [Log] opening browser.. 
+2020-08-15 19:14:40,200 INFO  [Log] Chrome.. 
+2020-08-15 19:14:46,919 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 19:14:48,819 INFO  [Log] Get to Search Page 
+2020-08-15 19:14:48,819 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:14:49,735 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:14:52,319 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 19:14:52,347 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:14:53,355 INFO  [Log] User is on the Search page 
+2020-08-15 19:14:53,359 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 19:14:53,359 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:14:53,419 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 19:14:54,651 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 19:14:54,731 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 19:14:57,861 INFO  [Log] * And user clicks.. 
+2020-08-15 19:14:57,861 INFO  [Log] Clicking object - searchButton 
+2020-08-15 19:14:59,050 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 19:14:59,738 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:15:00,982 INFO  [Log] User is on the searched product page 
+2020-08-15 19:15:00,982 INFO  [Log] * And user clicks.. 
+2020-08-15 19:15:00,982 INFO  [Log] Clicking object - productname 
+2020-08-15 19:15:01,770 INFO  [Log] Checking Element Exists - logo 
+2020-08-15 19:15:01,810 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:15:04,836 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-15 19:15:04,836 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 19:15:04,836 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:15:04,836 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 19:15:04,836 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:17:26,902 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:17:26,902 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 19:17:26,902 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:17:26,902 INFO  [Log] initialising properties.. 
+2020-08-15 19:17:26,902 INFO  [Log] Properties initialised! 
+2020-08-15 19:17:26,902 INFO  [Log] opening browser.. 
+2020-08-15 19:17:26,902 INFO  [Log] Chrome.. 
+2020-08-15 19:17:33,708 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 19:17:35,528 INFO  [Log] Get to Search Page 
+2020-08-15 19:17:35,528 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:17:36,716 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:17:39,432 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 19:17:39,452 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:17:40,464 INFO  [Log] User is on the Search page 
+2020-08-15 19:17:40,464 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 19:17:40,464 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:17:40,524 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 19:17:41,708 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 19:17:41,816 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 19:17:44,943 INFO  [Log] * And user clicks.. 
+2020-08-15 19:17:44,943 INFO  [Log] Clicking object - searchButton 
+2020-08-15 19:17:46,115 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 19:17:46,807 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:17:48,099 INFO  [Log] User is on the searched product page 
+2020-08-15 19:17:48,099 INFO  [Log] * And user clicks.. 
+2020-08-15 19:17:48,099 INFO  [Log] Clicking object - productname 
+2020-08-15 19:17:48,896 INFO  [Log] Checking Element Exists - logo 
+2020-08-15 19:17:48,932 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:17:52,141 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-15 19:17:52,145 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 19:17:52,145 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:17:52,145 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 19:17:52,145 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:18:43,450 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:18:43,450 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 19:18:43,450 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:18:43,454 INFO  [Log] initialising properties.. 
+2020-08-15 19:18:43,454 INFO  [Log] Properties initialised! 
+2020-08-15 19:18:43,454 INFO  [Log] opening browser.. 
+2020-08-15 19:18:43,454 INFO  [Log] Chrome.. 
+2020-08-15 19:18:50,248 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 19:18:52,620 INFO  [Log] Get to Search Page 
+2020-08-15 19:18:52,620 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:18:53,064 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:18:54,264 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 19:18:54,596 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:18:55,708 INFO  [Log] User is on the Search page 
+2020-08-15 19:18:55,708 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 19:18:55,708 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:18:55,772 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 19:18:57,016 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 19:18:57,092 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 19:19:00,227 INFO  [Log] * And user clicks.. 
+2020-08-15 19:19:00,227 INFO  [Log] Clicking object - searchButton 
+2020-08-15 19:19:01,261 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 19:19:02,065 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:19:03,113 INFO  [Log] User is on the searched product page 
+2020-08-15 19:19:03,113 INFO  [Log] * And user clicks.. 
+2020-08-15 19:19:03,113 INFO  [Log] Clicking object - productname 
+2020-08-15 19:19:03,773 INFO  [Log] Waiting Until Element Is Visible - //*[@class='brandLogoImg'] 
+2020-08-15 19:19:03,841 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-15 19:19:03,845 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 19:19:03,845 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:19:03,845 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 19:19:03,845 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:20:14,438 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:20:14,438 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 19:20:14,438 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:20:14,438 INFO  [Log] initialising properties.. 
+2020-08-15 19:20:14,438 INFO  [Log] Properties initialised! 
+2020-08-15 19:20:14,438 INFO  [Log] opening browser.. 
+2020-08-15 19:20:14,438 INFO  [Log] Chrome.. 
+2020-08-15 19:20:21,216 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 19:20:23,575 INFO  [Log] Get to Search Page 
+2020-08-15 19:20:23,575 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:20:26,111 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:20:27,132 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 19:20:27,148 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:20:28,196 INFO  [Log] User is on the Search page 
+2020-08-15 19:20:28,196 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 19:20:28,196 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:20:28,260 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 19:20:29,416 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 19:20:29,492 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 19:20:32,652 INFO  [Log] * And user clicks.. 
+2020-08-15 19:20:32,652 INFO  [Log] Clicking object - searchButton 
+2020-08-15 19:20:33,567 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 19:20:34,391 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:20:35,560 INFO  [Log] User is on the searched product page 
+2020-08-15 19:20:35,560 INFO  [Log] * And user clicks.. 
+2020-08-15 19:20:35,560 INFO  [Log] Clicking object - productname 
+2020-08-15 19:20:36,300 INFO  [Log] Waiting Until Element Is Visible - //*[@class='brandLogoImg'] 
+2020-08-15 19:20:36,364 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-15 19:20:36,364 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 19:20:36,364 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:20:36,364 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 19:20:36,364 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:23:19,704 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:23:19,708 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 19:23:19,708 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:23:19,708 INFO  [Log] initialising properties.. 
+2020-08-15 19:23:19,708 INFO  [Log] Properties initialised! 
+2020-08-15 19:23:19,708 INFO  [Log] opening browser.. 
+2020-08-15 19:23:19,708 INFO  [Log] Chrome.. 
+2020-08-15 19:23:26,428 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 19:23:28,874 INFO  [Log] Get to Search Page 
+2020-08-15 19:23:28,874 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:23:29,382 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:23:30,504 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 19:23:30,580 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:23:32,032 INFO  [Log] User is on the Search page 
+2020-08-15 19:23:32,032 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 19:23:32,032 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:23:32,108 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 19:23:33,340 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 19:23:33,420 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 19:23:36,576 INFO  [Log] * And user clicks.. 
+2020-08-15 19:23:36,576 INFO  [Log] Clicking object - searchButton 
+2020-08-15 19:23:37,884 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 19:23:38,560 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:23:39,604 INFO  [Log] User is on the searched product page 
+2020-08-15 19:23:39,604 INFO  [Log] * And user clicks.. 
+2020-08-15 19:23:39,604 INFO  [Log] Clicking object - productname 
+2020-08-15 19:23:40,396 INFO  [Log] Waiting Until Element Is Visible - //*[@class='brandLogoImg'] 
+2020-08-15 19:23:40,460 ERROR [Log] AssertionError - User is not on the selected product page 
+2020-08-15 19:23:40,460 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 19:23:40,460 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:23:40,460 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 19:23:40,460 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:29:07,243 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:29:07,243 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 19:29:07,243 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:29:07,243 INFO  [Log] initialising properties.. 
+2020-08-15 19:29:07,243 INFO  [Log] Properties initialised! 
+2020-08-15 19:29:07,243 INFO  [Log] opening browser.. 
+2020-08-15 19:29:07,243 INFO  [Log] Chrome.. 
+2020-08-15 19:29:14,295 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 19:29:17,107 INFO  [Log] Get to Search Page 
+2020-08-15 19:29:17,107 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:29:17,359 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:29:20,147 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 19:29:20,175 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:29:21,191 INFO  [Log] User is on the Search page 
+2020-08-15 19:29:21,191 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 19:29:21,191 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:29:21,291 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 19:29:22,459 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 19:29:22,547 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 19:29:25,676 INFO  [Log] * And user clicks.. 
+2020-08-15 19:29:25,676 INFO  [Log] Clicking object - searchButton 
+2020-08-15 19:29:26,768 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 19:29:27,552 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:29:30,492 INFO  [Log] User is on the searched product page 
+2020-08-15 19:29:30,492 INFO  [Log] * And user clicks.. 
+2020-08-15 19:29:30,492 INFO  [Log] Clicking object - productname 
+2020-08-15 19:29:31,156 INFO  [Log] Waiting Until Element Is Visible - //*[@class='col-xs-12 main-page-header'] 
+2020-08-15 19:29:31,224 ERROR [Log] AssertionError - User is not on the selected product page 
+2020-08-15 19:29:31,228 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 19:29:31,228 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:29:31,228 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 19:29:31,228 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:32:34,499 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:32:34,499 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 19:32:34,499 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:32:34,499 INFO  [Log] initialising properties.. 
+2020-08-15 19:32:34,499 INFO  [Log] Properties initialised! 
+2020-08-15 19:32:34,499 INFO  [Log] opening browser.. 
+2020-08-15 19:32:34,499 INFO  [Log] Chrome.. 
+2020-08-15 19:32:41,315 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 19:32:44,103 INFO  [Log] Get to Search Page 
+2020-08-15 19:32:44,103 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:32:47,235 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:32:48,251 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 19:32:48,275 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:32:49,291 INFO  [Log] User is on the Search page 
+2020-08-15 19:32:49,291 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 19:32:49,291 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:32:49,359 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 19:32:50,551 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 19:32:50,651 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 19:32:53,782 INFO  [Log] * And user clicks.. 
+2020-08-15 19:32:53,782 INFO  [Log] Clicking object - searchButton 
+2020-08-15 19:32:54,850 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 19:32:55,734 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:32:57,662 INFO  [Log] User is on the searched product page 
+2020-08-15 19:32:57,662 INFO  [Log] * And user clicks.. 
+2020-08-15 19:32:57,662 INFO  [Log] Clicking object - productname 
+2020-08-15 19:32:58,390 INFO  [Log] Reading label from - logo 
+2020-08-15 19:32:58,486 ERROR [Log] AssertionError - User is not on the selected product page 
+2020-08-15 19:32:58,486 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 19:32:58,490 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:32:58,490 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 19:32:58,490 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:36:56,883 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:36:56,887 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 19:36:56,887 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:36:56,887 INFO  [Log] initialising properties.. 
+2020-08-15 19:36:56,887 INFO  [Log] Properties initialised! 
+2020-08-15 19:36:56,887 INFO  [Log] opening browser.. 
+2020-08-15 19:36:56,887 INFO  [Log] Chrome.. 
+2020-08-15 19:37:03,950 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 19:37:06,339 INFO  [Log] Get to Search Page 
+2020-08-15 19:37:06,339 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:37:08,179 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:37:09,235 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 19:37:09,275 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:37:10,291 INFO  [Log] User is on the Search page 
+2020-08-15 19:37:10,291 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 19:37:10,291 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 19:37:10,375 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 19:37:11,543 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 19:37:11,643 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 19:37:14,787 INFO  [Log] * And user clicks.. 
+2020-08-15 19:37:14,787 INFO  [Log] Clicking object - searchButton 
+2020-08-15 19:37:17,291 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 19:37:17,679 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:37:19,519 INFO  [Log] User is on the searched product page 
+2020-08-15 19:37:19,519 INFO  [Log] * And user clicks.. 
+2020-08-15 19:37:19,519 INFO  [Log] Clicking object - productname 
+2020-08-15 19:37:22,792 INFO  [Log] Checking Element Exists - logo 
+2020-08-15 19:37:22,893 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 19:37:25,860 ERROR [Log] AssertionError - User is not on the selected product page 
+2020-08-15 19:37:25,860 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 19:37:25,860 INFO  [Log] **************************************************************************************** 
+2020-08-15 19:37:25,860 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 19:37:25,864 INFO  [Log] **************************************************************************************** 
+2020-08-15 22:18:23,049 INFO  [Log] **************************************************************************************** 
+2020-08-15 22:18:23,049 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 22:18:23,049 INFO  [Log] **************************************************************************************** 
+2020-08-15 22:18:23,049 INFO  [Log] initialising properties.. 
+2020-08-15 22:18:23,049 INFO  [Log] Properties initialised! 
+2020-08-15 22:18:23,049 INFO  [Log] opening browser.. 
+2020-08-15 22:18:23,049 INFO  [Log] Chrome.. 
+2020-08-15 22:18:30,010 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 22:18:34,038 INFO  [Log] Get to Search Page 
+2020-08-15 22:18:34,038 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 22:18:35,666 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 22:18:36,686 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 22:18:37,266 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 22:18:38,345 INFO  [Log] User is on the Search page 
+2020-08-15 22:18:38,345 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 22:18:38,345 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 22:18:38,453 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 22:18:39,689 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 22:18:39,805 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 22:18:42,961 INFO  [Log] * And user clicks.. 
+2020-08-15 22:18:42,961 INFO  [Log] Clicking object - searchButton 
+2020-08-15 22:18:45,809 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 22:18:47,237 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 22:18:48,245 INFO  [Log] User is on the searched product page 
+2020-08-15 22:18:48,245 INFO  [Log] * And user clicks.. 
+2020-08-15 22:18:48,245 INFO  [Log] Clicking object - productname 
+2020-08-15 22:18:49,492 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 22:18:53,484 INFO  [Log] Checking Element Exists - logo1 
+2020-08-15 22:18:53,636 INFO  [Log] User is on the selected product page 
+2020-08-15 22:18:53,636 INFO  [Log] * And user clicks.. 
+2020-08-15 22:18:53,636 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-15 22:18:53,893 INFO  [Log] Checking Element Exists - icon 
+2020-08-15 22:18:53,997 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 22:18:55,013 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-15 22:18:55,013 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 22:18:55,013 INFO  [Log] **************************************************************************************** 
+2020-08-15 22:18:55,013 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 22:18:55,013 INFO  [Log] **************************************************************************************** 
+2020-08-15 22:19:49,283 INFO  [Log] **************************************************************************************** 
+2020-08-15 22:19:49,283 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 22:19:49,283 INFO  [Log] **************************************************************************************** 
+2020-08-15 22:19:49,283 INFO  [Log] initialising properties.. 
+2020-08-15 22:19:49,283 INFO  [Log] Properties initialised! 
+2020-08-15 22:19:49,283 INFO  [Log] opening browser.. 
+2020-08-15 22:19:49,283 INFO  [Log] Chrome.. 
+2020-08-15 22:19:56,154 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 22:19:59,446 INFO  [Log] Get to Search Page 
+2020-08-15 22:19:59,446 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 22:19:59,678 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 22:20:02,333 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 22:20:02,361 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 22:20:03,541 INFO  [Log] User is on the Search page 
+2020-08-15 22:20:03,541 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 22:20:03,541 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 22:20:03,613 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 22:20:04,829 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 22:20:04,933 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 22:20:08,097 INFO  [Log] * And user clicks.. 
+2020-08-15 22:20:08,097 INFO  [Log] Clicking object - searchButton 
+2020-08-15 22:20:09,469 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 22:20:09,557 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 22:20:13,419 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-15 22:20:13,423 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 22:20:13,423 INFO  [Log] **************************************************************************************** 
+2020-08-15 22:20:13,423 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 22:20:13,423 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:09:22,233 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:09:22,233 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 23:09:22,233 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:09:22,233 INFO  [Log] initialising properties.. 
+2020-08-15 23:09:22,233 INFO  [Log] Properties initialised! 
+2020-08-15 23:09:22,233 INFO  [Log] opening browser.. 
+2020-08-15 23:09:22,233 INFO  [Log] Chrome.. 
+2020-08-15 23:09:29,380 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 23:09:37,868 INFO  [Log] Get to Search Page 
+2020-08-15 23:09:37,868 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:09:39,612 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:09:40,624 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 23:09:40,648 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:09:41,672 INFO  [Log] User is on the Search page 
+2020-08-15 23:09:41,672 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 23:09:41,672 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:09:41,748 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 23:09:43,024 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 23:09:43,320 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 23:09:46,424 INFO  [Log] * And user clicks.. 
+2020-08-15 23:09:46,424 INFO  [Log] Clicking object - searchButton 
+2020-08-15 23:09:46,648 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 23:09:47,537 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:09:51,893 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-15 23:09:51,897 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 23:09:51,897 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:09:51,897 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 23:09:51,897 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:11:03,371 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:11:03,371 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 23:11:03,371 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:11:03,371 INFO  [Log] initialising properties.. 
+2020-08-15 23:11:03,371 INFO  [Log] Properties initialised! 
+2020-08-15 23:11:03,371 INFO  [Log] opening browser.. 
+2020-08-15 23:11:03,375 INFO  [Log] Chrome.. 
+2020-08-15 23:11:10,502 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 23:11:15,470 INFO  [Log] Get to Search Page 
+2020-08-15 23:11:15,470 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:11:16,090 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:11:17,562 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 23:11:17,594 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:11:18,618 INFO  [Log] User is on the Search page 
+2020-08-15 23:11:18,618 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 23:11:18,618 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:11:18,674 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 23:11:19,872 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 23:11:19,956 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 23:11:23,137 INFO  [Log] * And user clicks.. 
+2020-08-15 23:11:23,137 INFO  [Log] Clicking object - searchButton 
+2020-08-15 23:11:24,331 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:11:26,023 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 23:11:26,859 INFO  [Log] User is on the searched product page 
+2020-08-15 23:11:26,859 INFO  [Log] * And user clicks.. 
+2020-08-15 23:11:26,859 INFO  [Log] Clicking object - productname 
+2020-08-15 23:11:27,776 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:11:29,460 INFO  [Log] Checking Element Exists - logo1 
+2020-08-15 23:11:30,880 INFO  [Log] User is on the selected product page 
+2020-08-15 23:11:30,880 INFO  [Log] * And user clicks.. 
+2020-08-15 23:11:30,880 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-15 23:11:31,092 INFO  [Log] Checking Element Exists - icon 
+2020-08-15 23:11:31,136 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:11:32,158 ERROR [Log] AssertionError - User is not on the searched product page 
+2020-08-15 23:11:32,158 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 23:11:32,158 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:11:32,158 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 23:11:32,158 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:13:26,897 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:13:26,897 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 23:13:26,897 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:13:26,897 INFO  [Log] initialising properties.. 
+2020-08-15 23:13:26,897 INFO  [Log] Properties initialised! 
+2020-08-15 23:13:26,897 INFO  [Log] opening browser.. 
+2020-08-15 23:13:26,897 INFO  [Log] Chrome.. 
+2020-08-15 23:13:33,701 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 23:13:36,856 INFO  [Log] Get to Search Page 
+2020-08-15 23:13:36,856 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:13:38,352 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:13:39,700 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 23:13:39,732 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:13:40,772 INFO  [Log] User is on the Search page 
+2020-08-15 23:13:40,772 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 23:13:40,772 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:13:40,832 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 23:13:42,004 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 23:13:42,104 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 23:13:45,225 INFO  [Log] * And user clicks.. 
+2020-08-15 23:13:45,225 INFO  [Log] Clicking object - searchButton 
+2020-08-15 23:13:47,361 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:13:49,445 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 23:13:49,469 INFO  [Log] User is on the searched product page 
+2020-08-15 23:13:49,469 INFO  [Log] * And user clicks.. 
+2020-08-15 23:13:49,469 INFO  [Log] Clicking object - productname 
+2020-08-15 23:13:50,443 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:13:53,695 INFO  [Log] Checking Element Exists - logo1 
+2020-08-15 23:13:53,911 INFO  [Log] User is on the selected product page 
+2020-08-15 23:13:53,915 INFO  [Log] * And user clicks.. 
+2020-08-15 23:13:53,915 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-15 23:13:54,243 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:13:55,283 INFO  [Log] Checking Element Exists - icon 
+2020-08-15 23:13:55,307 INFO  [Log] User is on the searched product page 
+2020-08-15 23:13:55,307 INFO  [Log] * And user clicks.. 
+2020-08-15 23:13:55,307 INFO  [Log] Clicking object - viewbasket 
+2020-08-15 23:13:56,476 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 23:13:56,476 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:13:56,480 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 23:13:56,480 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:14:42,829 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:14:42,829 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 23:14:42,829 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:14:42,829 INFO  [Log] initialising properties.. 
+2020-08-15 23:14:42,833 INFO  [Log] Properties initialised! 
+2020-08-15 23:14:42,833 INFO  [Log] opening browser.. 
+2020-08-15 23:14:42,833 INFO  [Log] Chrome.. 
+2020-08-15 23:14:49,626 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 23:14:52,105 INFO  [Log] Get to Search Page 
+2020-08-15 23:14:52,105 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:14:52,573 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:14:53,589 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 23:14:53,613 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:14:55,021 INFO  [Log] User is on the Search page 
+2020-08-15 23:14:55,021 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 23:14:55,021 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:14:55,173 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 23:14:56,639 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 23:14:56,723 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 23:14:59,871 INFO  [Log] * And user clicks.. 
+2020-08-15 23:14:59,871 INFO  [Log] Clicking object - searchButton 
+2020-08-15 23:15:00,927 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:15:02,635 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 23:15:02,663 INFO  [Log] User is on the searched product page 
+2020-08-15 23:15:02,663 INFO  [Log] * And user clicks.. 
+2020-08-15 23:15:02,663 INFO  [Log] Clicking object - productname 
+2020-08-15 23:15:04,016 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:15:07,920 INFO  [Log] Checking Element Exists - logo1 
+2020-08-15 23:15:08,016 INFO  [Log] User is on the selected product page 
+2020-08-15 23:15:08,016 INFO  [Log] * And user clicks.. 
+2020-08-15 23:15:08,016 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-15 23:15:08,340 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:15:09,372 INFO  [Log] Checking Element Exists - icon 
+2020-08-15 23:15:09,396 INFO  [Log] User is on the searched product page 
+2020-08-15 23:15:09,396 INFO  [Log] * And user clicks.. 
+2020-08-15 23:15:09,396 INFO  [Log] Clicking object - viewbasket 
+2020-08-15 23:15:14,643 INFO  [Log] * the added product for result page 1 
+2020-08-15 23:15:14,643 INFO  [Log] Reading label from - finalLable 
+2020-08-15 23:15:15,423 INFO  [Log] Header title location Assertion Passed  
+2020-08-15 23:15:15,427 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 23:15:15,427 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:15:15,427 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 23:15:15,427 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:42:50,106 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:42:50,106 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 23:42:50,106 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:42:50,106 INFO  [Log] initialising properties.. 
+2020-08-15 23:42:50,106 INFO  [Log] Properties initialised! 
+2020-08-15 23:42:50,106 INFO  [Log] opening browser.. 
+2020-08-15 23:42:50,106 INFO  [Log] Chrome.. 
+2020-08-15 23:42:57,254 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 23:43:00,229 INFO  [Log] Get to Search Page 
+2020-08-15 23:43:00,229 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:43:03,900 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:43:04,908 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 23:43:04,928 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:43:05,936 INFO  [Log] User is on the Search page 
+2020-08-15 23:43:05,936 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 23:43:05,936 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:43:05,996 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 23:43:07,176 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 23:43:07,264 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 23:43:10,441 INFO  [Log] * And user clicks.. 
+2020-08-15 23:43:10,441 INFO  [Log] Clicking object - searchButton 
+2020-08-15 23:43:11,551 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:43:13,155 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 23:43:13,179 INFO  [Log] User is on the searched product page 
+2020-08-15 23:43:13,179 INFO  [Log] * And user clicks.. 
+2020-08-15 23:43:13,179 INFO  [Log] Clicking object - productname 
+2020-08-15 23:43:14,697 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:43:18,965 INFO  [Log] Checking Element Exists - logo1 
+2020-08-15 23:43:19,053 INFO  [Log] User is on the selected product page 
+2020-08-15 23:43:19,053 INFO  [Log] * And user clicks.. 
+2020-08-15 23:43:19,053 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-15 23:43:19,445 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:43:20,476 INFO  [Log] Checking Element Exists - icon 
+2020-08-15 23:43:20,516 INFO  [Log] User is on the searched product page 
+2020-08-15 23:43:20,516 INFO  [Log] * And user clicks.. 
+2020-08-15 23:43:20,516 INFO  [Log] Clicking object - viewbasket 
+2020-08-15 23:43:22,256 INFO  [Log] * the added product for result page 1 
+2020-08-15 23:43:22,256 INFO  [Log] Reading label from - finalLable 
+2020-08-15 23:43:22,308 ERROR [Log] AssertionError - sales properties results page 
+2020-08-15 23:43:22,308 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 23:43:22,308 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:43:22,308 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 23:43:22,308 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:43:52,447 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:43:52,447 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 23:43:52,447 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:43:52,447 INFO  [Log] initialising properties.. 
+2020-08-15 23:43:52,447 INFO  [Log] Properties initialised! 
+2020-08-15 23:43:52,447 INFO  [Log] opening browser.. 
+2020-08-15 23:43:52,451 INFO  [Log] Chrome.. 
+2020-08-15 23:44:00,064 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 23:44:03,027 INFO  [Log] Get to Search Page 
+2020-08-15 23:44:03,027 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:44:04,305 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:44:05,743 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 23:44:05,919 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:44:06,991 INFO  [Log] User is on the Search page 
+2020-08-15 23:44:06,991 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 23:44:06,991 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:44:07,075 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 23:44:08,483 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 23:44:08,571 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 23:44:11,695 INFO  [Log] * And user clicks.. 
+2020-08-15 23:44:11,695 INFO  [Log] Clicking object - searchButton 
+2020-08-15 23:44:14,854 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:44:15,970 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 23:44:15,990 INFO  [Log] User is on the searched product page 
+2020-08-15 23:44:15,990 INFO  [Log] * And user clicks.. 
+2020-08-15 23:44:15,990 INFO  [Log] Clicking object - productname 
+2020-08-15 23:44:17,048 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:44:20,680 INFO  [Log] Checking Element Exists - logo1 
+2020-08-15 23:44:20,788 INFO  [Log] User is on the selected product page 
+2020-08-15 23:44:20,788 INFO  [Log] * And user clicks.. 
+2020-08-15 23:44:20,788 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-15 23:44:21,412 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:44:22,434 INFO  [Log] Checking Element Exists - icon 
+2020-08-15 23:44:22,462 INFO  [Log] User is on the searched product page 
+2020-08-15 23:44:22,462 INFO  [Log] * And user clicks.. 
+2020-08-15 23:44:22,462 INFO  [Log] Clicking object - viewbasket 
+2020-08-15 23:44:29,130 INFO  [Log] * the added product for result page 1 
+2020-08-15 23:44:29,130 INFO  [Log] Reading label from - finalLable 
+2020-08-15 23:44:29,190 ERROR [Log] AssertionError - sales properties results page 
+2020-08-15 23:44:29,190 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 23:44:29,190 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:44:29,190 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 23:44:29,190 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:45:32,296 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:45:32,296 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 23:45:32,296 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:45:32,296 INFO  [Log] initialising properties.. 
+2020-08-15 23:45:32,296 INFO  [Log] Properties initialised! 
+2020-08-15 23:45:32,296 INFO  [Log] opening browser.. 
+2020-08-15 23:45:32,296 INFO  [Log] Chrome.. 
+2020-08-15 23:45:39,203 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 23:45:41,603 INFO  [Log] Get to Search Page 
+2020-08-15 23:45:41,603 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:45:42,867 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:45:44,723 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 23:45:45,191 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:45:46,579 INFO  [Log] User is on the Search page 
+2020-08-15 23:45:46,579 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 23:45:46,579 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:45:46,643 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 23:45:47,933 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 23:45:48,025 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 23:45:51,167 INFO  [Log] * And user clicks.. 
+2020-08-15 23:45:51,167 INFO  [Log] Clicking object - searchButton 
+2020-08-15 23:45:53,144 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:45:54,300 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 23:45:54,360 INFO  [Log] User is on the searched product page 
+2020-08-15 23:45:54,360 INFO  [Log] * And user clicks.. 
+2020-08-15 23:45:54,360 INFO  [Log] Clicking object - productname 
+2020-08-15 23:45:55,545 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:45:58,825 INFO  [Log] Checking Element Exists - logo1 
+2020-08-15 23:45:59,613 INFO  [Log] User is on the selected product page 
+2020-08-15 23:45:59,613 INFO  [Log] * And user clicks.. 
+2020-08-15 23:45:59,613 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-15 23:45:59,997 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:46:01,010 INFO  [Log] Checking Element Exists - icon 
+2020-08-15 23:46:01,034 INFO  [Log] User is on the searched product page 
+2020-08-15 23:46:01,034 INFO  [Log] * And user clicks.. 
+2020-08-15 23:46:01,034 INFO  [Log] Clicking object - viewbasket 
+2020-08-15 23:46:02,870 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:46:04,062 INFO  [Log] * the added product for result page 1 
+2020-08-15 23:46:04,062 INFO  [Log] Reading label from - finalLable 
+2020-08-15 23:46:04,922 INFO  [Log] Header title location Assertion Passed  
+2020-08-15 23:46:04,922 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 23:46:04,922 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:46:04,922 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 23:46:04,922 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:48:21,259 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:48:21,259 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 23:48:21,259 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:48:21,259 INFO  [Log] initialising properties.. 
+2020-08-15 23:48:21,259 INFO  [Log] Properties initialised! 
+2020-08-15 23:48:21,259 INFO  [Log] opening browser.. 
+2020-08-15 23:48:21,259 INFO  [Log] Chrome.. 
+2020-08-15 23:48:28,287 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 23:48:31,031 INFO  [Log] Get to Search Page 
+2020-08-15 23:48:31,031 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:48:31,907 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:48:33,067 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 23:48:33,123 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:48:34,403 INFO  [Log] User is on the Search page 
+2020-08-15 23:48:34,407 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 23:48:34,407 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:48:34,699 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 23:48:35,903 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 23:48:36,023 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 23:48:39,165 INFO  [Log] * And user clicks.. 
+2020-08-15 23:48:39,165 INFO  [Log] Clicking object - searchButton 
+2020-08-15 23:48:40,407 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:48:42,651 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 23:48:42,691 INFO  [Log] User is on the searched product page 
+2020-08-15 23:48:42,691 INFO  [Log] * And user clicks.. 
+2020-08-15 23:48:42,691 INFO  [Log] Clicking object - productname 
+2020-08-15 23:48:43,542 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:48:47,683 INFO  [Log] Checking Element Exists - logo1 
+2020-08-15 23:48:47,795 INFO  [Log] User is on the selected product page 
+2020-08-15 23:48:47,795 INFO  [Log] * And user clicks.. 
+2020-08-15 23:48:47,795 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-15 23:48:48,127 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:48:49,136 INFO  [Log] Checking Element Exists - icon 
+2020-08-15 23:48:49,156 INFO  [Log] User is on the searched product page 
+2020-08-15 23:48:49,156 INFO  [Log] * And user clicks.. 
+2020-08-15 23:48:49,156 INFO  [Log] Clicking object - viewbasket 
+2020-08-15 23:48:51,690 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:48:54,046 INFO  [Log] * the added product for result page 1 
+2020-08-15 23:48:54,046 INFO  [Log] Reading label from - finalLable 
+2020-08-15 23:48:54,178 INFO  [Log] Header title location Assertion Passed  
+2020-08-15 23:48:54,178 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 23:48:54,178 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:48:54,178 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 23:48:54,178 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:51:45,252 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:51:45,252 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 23:51:45,256 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:51:45,256 INFO  [Log] initialising properties.. 
+2020-08-15 23:51:45,256 INFO  [Log] Properties initialised! 
+2020-08-15 23:51:45,256 INFO  [Log] opening browser.. 
+2020-08-15 23:51:45,256 INFO  [Log] Chrome.. 
+2020-08-15 23:51:52,278 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 23:51:55,488 INFO  [Log] Get to Search Page 
+2020-08-15 23:51:55,488 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:51:56,488 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:51:58,076 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 23:51:58,452 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:51:59,864 INFO  [Log] User is on the Search page 
+2020-08-15 23:51:59,868 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 23:51:59,868 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:52:00,000 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 23:52:01,328 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 23:52:01,424 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 23:52:04,571 INFO  [Log] * And user clicks.. 
+2020-08-15 23:52:04,571 INFO  [Log] Clicking object - searchButton 
+2020-08-15 23:52:06,232 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:52:07,555 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 23:52:07,575 INFO  [Log] User is on the searched product page 
+2020-08-15 23:52:07,575 INFO  [Log] * And user clicks.. 
+2020-08-15 23:52:07,575 INFO  [Log] Clicking object - productname 
+2020-08-15 23:52:08,638 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:52:11,654 INFO  [Log] Checking Element Exists - logo1 
+2020-08-15 23:52:12,126 INFO  [Log] User is on the selected product page 
+2020-08-15 23:52:12,126 INFO  [Log] * And user clicks.. 
+2020-08-15 23:52:12,126 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-15 23:52:12,802 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:52:13,838 INFO  [Log] Checking Element Exists - icon 
+2020-08-15 23:52:13,874 INFO  [Log] User is on the searched product page 
+2020-08-15 23:52:13,874 INFO  [Log] * And user clicks.. 
+2020-08-15 23:52:13,874 INFO  [Log] Clicking object - viewbasket 
+2020-08-15 23:52:17,033 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:52:18,237 INFO  [Log] * the added product for result page 1 
+2020-08-15 23:52:18,237 INFO  [Log] Reading label from - finalLable 
+2020-08-15 23:52:19,081 INFO  [Log] Header title location Assertion Passed  
+2020-08-15 23:52:19,081 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-15 23:52:19,081 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:52:19,081 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-15 23:52:19,081 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:59:26,096 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:59:26,100 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-15 23:59:26,100 INFO  [Log] **************************************************************************************** 
+2020-08-15 23:59:26,100 INFO  [Log] initialising properties.. 
+2020-08-15 23:59:26,100 INFO  [Log] Properties initialised! 
+2020-08-15 23:59:26,100 INFO  [Log] opening browser.. 
+2020-08-15 23:59:26,100 INFO  [Log] Chrome.. 
+2020-08-15 23:59:32,981 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-15 23:59:36,771 INFO  [Log] Get to Search Page 
+2020-08-15 23:59:36,771 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:59:37,239 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:59:38,411 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-15 23:59:38,439 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:59:39,487 INFO  [Log] User is on the Search page 
+2020-08-15 23:59:39,487 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-15 23:59:39,487 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-15 23:59:39,551 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-15 23:59:40,799 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-15 23:59:40,919 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-15 23:59:44,060 INFO  [Log] * And user clicks.. 
+2020-08-15 23:59:44,060 INFO  [Log] Clicking object - searchButton 
+2020-08-15 23:59:45,352 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:59:47,028 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-15 23:59:47,056 INFO  [Log] User is on the searched product page 
+2020-08-15 23:59:47,056 INFO  [Log] * And user clicks.. 
+2020-08-15 23:59:47,056 INFO  [Log] Clicking object - productname 
+2020-08-15 23:59:48,280 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:59:52,556 INFO  [Log] Checking Element Exists - logo1 
+2020-08-15 23:59:53,452 INFO  [Log] User is on the selected product page 
+2020-08-15 23:59:53,452 INFO  [Log] * And user clicks.. 
+2020-08-15 23:59:53,452 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-15 23:59:53,752 INFO  [Log] Waiting until page loads completely.. 
+2020-08-15 23:59:54,760 INFO  [Log] Checking Element Exists - icon 
+2020-08-15 23:59:54,784 INFO  [Log] User is on the basket page 
+2020-08-15 23:59:54,784 INFO  [Log] * And user clicks.. 
+2020-08-15 23:59:54,784 INFO  [Log] Clicking object - viewbasket 
+2020-08-15 23:59:56,862 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 00:00:01,298 INFO  [Log] * the added product for result page 1 
+2020-08-16 00:00:01,298 INFO  [Log] Reading label from - finalLable 
+2020-08-16 00:00:01,378 INFO  [Log] Header title location Assertion Passed  
+2020-08-16 00:00:01,378 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-16 00:00:01,378 INFO  [Log] **************************************************************************************** 
+2020-08-16 00:00:01,378 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-16 00:00:01,378 INFO  [Log] **************************************************************************************** 
+2020-08-16 00:03:25,253 INFO  [Log] **************************************************************************************** 
+2020-08-16 00:03:25,254 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-16 00:03:25,254 INFO  [Log] **************************************************************************************** 
+2020-08-16 00:03:25,254 INFO  [Log] initialising properties.. 
+2020-08-16 00:03:25,254 INFO  [Log] Properties initialised! 
+2020-08-16 00:03:25,255 INFO  [Log] opening browser.. 
+2020-08-16 00:03:25,255 INFO  [Log] Chrome.. 
+2020-08-16 00:03:32,101 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-16 00:03:34,354 INFO  [Log] Get to Search Page 
+2020-08-16 00:03:34,355 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-16 00:03:36,009 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 00:03:37,049 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-16 00:03:37,074 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 00:03:38,151 INFO  [Log] User is on the Search page 
+2020-08-16 00:03:38,151 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-16 00:03:38,151 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-16 00:03:38,295 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-16 00:03:39,572 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-16 00:03:39,848 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-16 00:03:43,235 INFO  [Log] * And user clicks.. 
+2020-08-16 00:03:43,235 INFO  [Log] Clicking object - searchButton 
+2020-08-16 00:03:45,100 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 00:03:46,291 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-16 00:03:46,320 INFO  [Log] User is on the searched product page 
+2020-08-16 00:03:46,320 INFO  [Log] * And user clicks.. 
+2020-08-16 00:03:46,320 INFO  [Log] Clicking object - productname 
+2020-08-16 00:03:47,494 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 00:03:50,330 INFO  [Log] Checking Element Exists - logo1 
+2020-08-16 00:03:50,364 INFO  [Log] User is on the selected product page 
+2020-08-16 00:03:50,364 INFO  [Log] * And user clicks.. 
+2020-08-16 00:03:50,364 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-16 00:03:51,823 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 00:03:52,835 INFO  [Log] Checking Element Exists - icon 
+2020-08-16 00:03:52,857 INFO  [Log] User is on the basket page 
+2020-08-16 00:03:52,857 INFO  [Log] * And user clicks.. 
+2020-08-16 00:03:52,857 INFO  [Log] Clicking object - viewbasket 
+2020-08-16 00:03:54,022 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-16 00:03:54,022 INFO  [Log] **************************************************************************************** 
+2020-08-16 00:03:54,022 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-16 00:03:54,023 INFO  [Log] **************************************************************************************** 
+2020-08-16 00:07:45,697 INFO  [Log] **************************************************************************************** 
+2020-08-16 00:07:45,698 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-16 00:07:45,698 INFO  [Log] **************************************************************************************** 
+2020-08-16 00:07:45,698 INFO  [Log] initialising properties.. 
+2020-08-16 00:07:45,699 INFO  [Log] Properties initialised! 
+2020-08-16 00:07:45,699 INFO  [Log] opening browser.. 
+2020-08-16 00:07:45,699 INFO  [Log] Chrome.. 
+2020-08-16 00:07:54,299 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-16 00:07:58,225 INFO  [Log] Get to Search Page 
+2020-08-16 00:07:58,226 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-16 00:08:00,668 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 00:08:01,998 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-16 00:08:02,109 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 00:08:03,156 INFO  [Log] User is on the Search page 
+2020-08-16 00:08:03,157 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-16 00:08:03,157 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-16 00:08:03,287 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-16 00:08:04,799 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-16 00:08:04,893 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-16 00:08:08,052 INFO  [Log] * And user clicks.. 
+2020-08-16 00:08:08,052 INFO  [Log] Clicking object - searchButton 
+2020-08-16 00:08:10,553 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 00:08:11,567 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-16 00:08:11,587 INFO  [Log] User is on the searched product page 
+2020-08-16 00:08:11,587 INFO  [Log] * And user clicks.. 
+2020-08-16 00:08:11,587 INFO  [Log] Clicking object - productname 
+2020-08-16 00:08:12,910 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 00:08:18,762 INFO  [Log] Checking Element Exists - logo1 
+2020-08-16 00:08:18,796 INFO  [Log] User is on the selected product page 
+2020-08-16 00:08:18,796 INFO  [Log] * And user clicks.. 
+2020-08-16 00:08:18,796 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-16 00:08:19,002 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 00:08:20,021 INFO  [Log] Checking Element Exists - icon 
+2020-08-16 00:08:20,055 INFO  [Log] User is on the basket page 
+2020-08-16 00:08:20,055 INFO  [Log] * And user clicks.. 
+2020-08-16 00:08:20,055 INFO  [Log] Clicking object - viewbasket 
+2020-08-16 00:08:21,471 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-16 00:08:21,471 INFO  [Log] **************************************************************************************** 
+2020-08-16 00:08:21,471 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-16 00:08:21,471 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:15:12,260 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:15:12,278 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-16 10:15:12,278 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:15:12,279 INFO  [Log] initialising properties.. 
+2020-08-16 10:15:12,279 INFO  [Log] Properties initialised! 
+2020-08-16 10:15:12,279 INFO  [Log] opening browser.. 
+2020-08-16 10:15:12,279 INFO  [Log] Chrome.. 
+2020-08-16 10:15:22,166 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-16 10:15:26,412 INFO  [Log] Get to Search Page 
+2020-08-16 10:15:26,413 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-16 10:15:27,968 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:15:29,086 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-16 10:15:29,106 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:15:30,275 INFO  [Log] User is on the Search page 
+2020-08-16 10:15:30,275 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-16 10:15:30,275 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-16 10:15:30,339 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-16 10:15:32,244 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-16 10:15:32,531 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-16 10:15:36,043 INFO  [Log] * And user clicks.. 
+2020-08-16 10:15:36,043 INFO  [Log] Clicking object - searchButton 
+2020-08-16 10:15:37,343 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:15:39,126 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-16 10:15:39,160 INFO  [Log] User is on the searched product page 
+2020-08-16 10:15:39,161 INFO  [Log] * And user clicks.. 
+2020-08-16 10:15:39,161 INFO  [Log] Clicking object - productname 
+2020-08-16 10:15:40,862 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:15:45,111 INFO  [Log] Checking Element Exists - logo1 
+2020-08-16 10:15:45,158 INFO  [Log] User is on the selected product page 
+2020-08-16 10:15:45,158 INFO  [Log] * And user clicks.. 
+2020-08-16 10:15:45,158 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-16 10:15:45,650 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:15:46,657 INFO  [Log] Checking Element Exists - icon 
+2020-08-16 10:15:46,674 INFO  [Log] User is on the basket page 
+2020-08-16 10:15:46,674 INFO  [Log] * And user clicks.. 
+2020-08-16 10:15:46,674 INFO  [Log] Clicking object - viewbasket 
+2020-08-16 10:15:47,933 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-16 10:15:47,933 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:15:47,933 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-16 10:15:47,933 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:19:10,297 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:19:10,297 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-16 10:19:10,298 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:19:10,298 INFO  [Log] initialising properties.. 
+2020-08-16 10:19:10,298 INFO  [Log] Properties initialised! 
+2020-08-16 10:19:10,298 INFO  [Log] opening browser.. 
+2020-08-16 10:19:10,298 INFO  [Log] Chrome.. 
+2020-08-16 10:19:17,220 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-16 10:19:19,539 INFO  [Log] Get to Search Page 
+2020-08-16 10:19:19,539 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-16 10:19:21,225 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:19:22,262 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-16 10:19:22,417 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:19:23,692 INFO  [Log] User is on the Search page 
+2020-08-16 10:19:23,693 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-16 10:19:23,693 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-16 10:19:23,780 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-16 10:19:25,302 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-16 10:19:25,388 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-16 10:19:28,499 INFO  [Log] * And user clicks.. 
+2020-08-16 10:19:28,499 INFO  [Log] Clicking object - searchButton 
+2020-08-16 10:19:29,728 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:19:31,506 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-16 10:19:31,562 INFO  [Log] User is on the searched product page 
+2020-08-16 10:19:31,562 INFO  [Log] * And user clicks.. 
+2020-08-16 10:19:31,562 INFO  [Log] Clicking object - productname 
+2020-08-16 10:19:32,479 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:19:35,014 INFO  [Log] Checking Element Exists - logo1 
+2020-08-16 10:19:35,042 INFO  [Log] User is on the selected product page 
+2020-08-16 10:19:35,042 INFO  [Log] * And user clicks.. 
+2020-08-16 10:19:35,042 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-16 10:19:36,327 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:19:37,401 INFO  [Log] Checking Element Exists - icon 
+2020-08-16 10:19:37,428 INFO  [Log] User is on the basket page 
+2020-08-16 10:19:37,428 INFO  [Log] * And user clicks.. 
+2020-08-16 10:19:37,428 INFO  [Log] Clicking object - viewbasket 
+2020-08-16 10:19:38,585 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-16 10:19:38,585 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:19:38,585 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-16 10:19:38,585 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:21:26,984 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:21:26,984 INFO  [Log] **                    START SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.** 
+2020-08-16 10:21:26,985 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:21:26,985 INFO  [Log] initialising properties.. 
+2020-08-16 10:21:26,985 INFO  [Log] Properties initialised! 
+2020-08-16 10:21:26,985 INFO  [Log] opening browser.. 
+2020-08-16 10:21:26,985 INFO  [Log] Chrome.. 
+2020-08-16 10:21:34,105 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-08-16 10:21:36,429 INFO  [Log] Get to Search Page 
+2020-08-16 10:21:36,429 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-16 10:21:37,018 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:21:39,461 INFO  [Log] Checking Element Exists - searchpageLabel 
+2020-08-16 10:21:39,503 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:21:41,920 INFO  [Log] User is on the Search page 
+2020-08-16 10:21:41,920 INFO  [Log] * When the user enters Battery into searchLocationText 
+2020-08-16 10:21:41,920 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-08-16 10:21:42,027 INFO  [Log] Entering data - Battery into + searchLocationText 
+2020-08-16 10:21:43,277 INFO  [Log] Waiting Until Element Is Visible - //*[@class='section-title'] 
+2020-08-16 10:21:43,393 INFO  [Log] Clicking object - autoCompleteSearchLocationLink 
+2020-08-16 10:21:46,521 INFO  [Log] * And user clicks.. 
+2020-08-16 10:21:46,521 INFO  [Log] Clicking object - searchButton 
+2020-08-16 10:21:47,508 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:21:49,242 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-08-16 10:21:49,363 INFO  [Log] User is on the searched product page 
+2020-08-16 10:21:49,363 INFO  [Log] * And user clicks.. 
+2020-08-16 10:21:49,363 INFO  [Log] Clicking object - productname 
+2020-08-16 10:21:50,162 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:21:53,272 INFO  [Log] Checking Element Exists - logo1 
+2020-08-16 10:21:53,380 INFO  [Log] User is on the selected product page 
+2020-08-16 10:21:53,380 INFO  [Log] * And user clicks.. 
+2020-08-16 10:21:53,380 INFO  [Log] Clicking object - addbasketbutton 
+2020-08-16 10:21:53,650 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:21:54,681 INFO  [Log] Checking Element Exists - icon 
+2020-08-16 10:21:54,708 INFO  [Log] User is on the basket page 
+2020-08-16 10:21:54,709 INFO  [Log] * And user clicks.. 
+2020-08-16 10:21:54,709 INFO  [Log] Clicking object - viewbasket 
+2020-08-16 10:21:55,432 INFO  [Log] Waiting until page loads completely.. 
+2020-08-16 10:21:58,298 INFO  [Log] * the added product for result page 1 
+2020-08-16 10:21:58,298 INFO  [Log] Reading label from - finalLable 
+2020-08-16 10:21:58,473 INFO  [Log] Header title location Assertion Passed  
+2020-08-16 10:21:58,473 INFO  [Log] Closing browser after running the Scenario.. 
+2020-08-16 10:21:58,473 INFO  [Log] **************************************************************************************** 
+2020-08-16 10:21:58,473 INFO  [Log] **                    END SCENARIO EXECUTION Verify that when a user searches for a valid product and adds to the basket ? product should be available in the basket.              ** 
+2020-08-16 10:21:58,474 INFO  [Log] **************************************************************************************** 
